@@ -26,5 +26,5 @@ enableRobotsTXT = true
 
 [params]
   geekdocBreadcrumb = true
-  geekdocEditPath = "edit/main/docs/content"
+  geekdocEditPath = "/edit/source"
   geekdocRepo = "https://github.com/OliCoder/olicoder.github.io"
